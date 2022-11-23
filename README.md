@@ -2,13 +2,12 @@
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 
-<p align="left"> <a href="https://twitter.com/wheresbebo" target="blank"><img src="https://img.shields.io/twitter/follow/wheresbebo?logo=twitter&style=for-the-badge" alt="wheresbebo" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, React.js and Phyton**
+- 🌱 I’m currently learning: **React Native, React.js and Phyton**
 
-- 💬 Ask me about **Angular, Javascript and Typescript**
+- 💬 Ask me about: **Angular, Javascript and Typescript**
 
-- 📫 How to reach me **pietro@lungarini.it**
+- 📫 How to reach me: **pietro@lungarini.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

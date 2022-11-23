@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Pietro</h1>
+![download](https://user-images.githubusercontent.com/15258915/203651467-b94d34da-95d0-4aa5-a4d7-1bc2b5c52551.png)
+<div align="center"></div>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 
-
+<p>
 - 🌱 I’m currently learning: **React Native, React.js and Phyton**
-
+<br>
 - 💬 Ask me about: **Angular, Javascript and Typescript**
-
+<br>
 - 📫 How to reach me: **pietro@lungarini.it**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +25,8 @@
 
 <h3 align="left">Support:</h3>
 <p style="display: block"><a href="https://www.buymeacoffee.com/wheresbebo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wheresbebo" /></a></p>
-
-<p style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" /></p>
-
-<p style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" /></p>
+<div align="center"></div>
+<div align="center"></div>
+<div style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" /></div>
+<div align="center"></div>
+<div style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" /></div>

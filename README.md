@@ -25,10 +25,14 @@
 
 
 <br/>
-| ------------------------- | ------------------------- |
-|     :---:      |     :---:      |
-|<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" /></div>
-<div align="center"></p>|<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" /></p>|
+<table>
+  <tr></tr>
+  <td>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" />
+  <td>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" />
+  </td>
+</table>
 
 <br/>
 <h3 align="left">Support:</h3>

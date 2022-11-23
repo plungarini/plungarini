@@ -25,12 +25,12 @@
 
 
 <br/>
-<div>
-<div style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" /></div>
+|:-------------------------:|:-------------------------:|
+|<div style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" /></div>
 <div align="center"></div>
-<br/>
+|
 <div style="display: block; margin-top: 1rem"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" /></div>
-<br/><br/>
-  </div>
+<br/>
+|
 <h3 align="left">Support:</h3>
 <div style="display: block"><a href="https://www.buymeacoffee.com/wheresbebo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wheresbebo" /></a></div>

@@ -26,12 +26,18 @@
 
 <br/>
 <table>
-  <tr></tr>
   <td>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" />
+  </td>
+  <td>
+    <img align="center"
+      src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula"
+    />
+  </td>
   <td>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" />
   </td>
+  
 </table>
 
 <br/>

@@ -41,11 +41,15 @@
 </table>
 <br/>
 <h3 align="left">Realtime status:</h3>
-[![status](https://badge.stateful.com/plungarini/status.svg)](Status for @plungarini)
-[![status](https://badge.stateful.com/plungarini/dnd.svg)](DnD for @plungarini)
+<table>
+  <td>
+    <img src="https://badge.stateful.com/plungarini/status.svg" alt="plungarini" />
+  </td>
+  <td>
+    <img src="https://badge.stateful.com/plungarini/dnd.svg" alt="plungarini" />
+  </td>
+</table>
 
-<img src="https://badge.stateful.com/plungarini/status.svg" alt="plungarini" />
-<img src="https://badge.stateful.com/plungarini/dnd.svg" alt="plungarini" />
 
 <br/>
 <h3 align="left">Support:</h3>

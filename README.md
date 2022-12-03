@@ -44,6 +44,9 @@
 [![status](https://badge.stateful.com/plungarini/status.svg)](Status for @plungarini)
 [![status](https://badge.stateful.com/plungarini/dnd.svg)](DnD for @plungarini)
 
+<img src="https://badge.stateful.com/plungarini/status.svg" alt="plungarini" />
+<img src="https://badge.stateful.com/plungarini/dnd.svg" alt="plungarini" />
+
 <br/>
 <h3 align="left">Support:</h3>
 <div style="display: block"><a href="https://www.buymeacoffee.com/wheresbebo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wheresbebo" /></a></div>

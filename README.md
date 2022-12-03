@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  - 🌱 I’m currently learning: <b>React Native, React.js and Phyton</b>
+  🌱 I’m currently learning: <b>Solidity, React Native, React.js and Phyton</b>
 <br>
-  - 💬 Ask me about: <b>Angular, Javascript and Typescript</b>
+  💬 Ask me about: <b>Angular, Javascript and Typescript</b>
 <br>
-  - 📫 How to reach me: <b>pietro@lungarini.it</b>
+  📫 How to reach me: <b>pietro@lungarini.it</b>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -39,6 +39,10 @@
   </td>
   
 </table>
+<br/>
+<h3 align="left">Realtime status:</h3>
+[![status](https://badge.stateful.com/plungarini/status.svg)](Status for @plungarini)
+[![status](https://badge.stateful.com/plungarini/dnd.svg)](DnD for @plungarini)
 
 <br/>
 <h3 align="left">Support:</h3>

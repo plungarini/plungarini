@@ -1,56 +1,110 @@
-![download](https://user-images.githubusercontent.com/15258915/203651467-b94d34da-95d0-4aa5-a4d7-1bc2b5c52551.png)
-<div align="center"></div>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<!--
+  ┌─────────────────────────────────────────────────┐
+  │  Pietro "Bebo" Lungarini · github.com/plungarini │
+  └─────────────────────────────────────────────────┘
+-->
 
+<div align="center">
 
-<p align="center">
-  🌱 I’m currently learning: <b>Solidity, React Native, React.js and Phyton</b>
-<br>
-  💬 Ask me about: <b>Angular, Javascript and Typescript</b>
-<br>
-  📫 How to reach me: <b>pietro@lungarini.it</b>
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   pietro lungarini   ·   aka bebo   ·   italy            ║
+║   full-stack dev obsessed with architecture & markets    ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/plungarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="plungarini" height="30" width="40" /></a>
-<a href="https://twitter.com/wheresbebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wheresbebo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/plungarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="plungarini" height="30" width="40" /></a>
-<a href="https://fb.com/pietrolungarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pietrolungarini" height="30" width="40" /></a>
-<a href="https://instagram.com/wheresbebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wheresbebo" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+---
 
 <br/>
-<table>
-  <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plungarini&show_icons=true&theme=dark&title_color=ffffff&text_color=e6e6e6&bg_color=1f1f1f&locale=it&layout=compact" alt="plungarini" />
-  </td>
-  <td>
-    <img align="center"
-      src="https://stackoverflow-card.vercel.app/?userID=11582474&theme=dracula"
-    />
-  </td>
-  <td>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark" alt="plungarini" />
-  </td>
-  
-</table>
-<br/>
-<h3 align="left">Realtime status:</h3>
-<table>
-  <td>
-    <img src="https://badge.stateful.com/plungarini/status.svg" alt="plungarini" />
-  </td>
-  <td>
-    <img src="https://badge.stateful.com/plungarini/dnd.svg" alt="plungarini" />
-  </td>
-</table>
 
+```ts
+const bebo = {
+  location:  "Italy 🇮🇹",
+  status:    "freelancing · side projects · open to opportunities",
+  focus:     ["web architecture", "trading systems", "AI tooling"],
+  currently: "building things that probably shouldn't exist",
+};
+```
 
 <br/>
-<h3 align="left">Support:</h3>
-<div style="display: block"><a href="https://www.buymeacoffee.com/wheresbebo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wheresbebo" /></a></div>
+
+---
+
+### `// stack`
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine_Script-1E1E2E?style=flat-square&logo=tradingview&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+### `// what i'm building`
+
+```
+▸  a hedging-based trading platform          ········  [active]
+   market-direction-agnostic. profit is      
+   a math problem, not a prediction one.     
+
+▸  local AI agent orchestration              ········  [active]
+   raspberry pi 5 · hybrid memory · qwen
+   because cloud inference is overrated.
+
+▸  smart glasses integrations                ········  [exploring]
+   evenrealities G2 · even hub SDK
+   wearable context layers for workflows.
+```
+
+<br/>
+
+---
+
+### `// stats`
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=plungarini&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&hide_border=true)
+</div>
+
+<br/>
+
+---
+
+### `// reach me`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/pietro@lungarini.it-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:pietro@lungarini.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/plungarini)
+[![Twitter / X](https://img.shields.io/badge/@wheresbebo-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/wheresbebo)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```
+// if it's boring to build, it's probably been done right.
+// i prefer the third option.
+```
+
+</div>

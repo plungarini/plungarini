@@ -58,17 +58,25 @@ const bebo = {
 ### `// what i'm building`
 
 ```
+▸  crm for insurance companies               ········  [active]
+   digitizing insurance workflows · GHL layers     
+   responsive, fast, smart.
+
 ▸  a hedging-based trading platform          ········  [active]
    market-direction-agnostic. profit is      
-   a math problem, not a prediction one.     
+   a math problem, not a prediction one.
 
 ▸  local AI agent orchestration              ········  [active]
-   raspberry pi 5 · hybrid memory · qwen
+   raspberry pi 5 · hybrid memory
    because cloud inference is overrated.
 
-▸  smart glasses integrations                ········  [exploring]
-   evenrealities G2 · even hub SDK
+▸  smart glasses integrations                ········  [active]
+   evenrealities · even hub SDK
    wearable context layers for workflows.
+
+▸  glasses AR Reddit feed                    ········  [active]
+   evenrealities G2 · reddit unofficial APIs (scraper)
+   reddit feed, straight into G2 glasses.
 ```
 
 <br/>

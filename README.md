@@ -19,7 +19,7 @@
  ╔═════════════════════════════════════════════════════════════════════════════════╗
  ║                                                                                 ║
  ║         Pietro Lungarini   ·   Full Stack Dev                                   ║
- ║         pietro@world:~$ git commit -m "it works, don't touch it"                ║
+ ║         plungarini@world:~$ git commit -m "it works, don't touch it"            ║
  ║                                                                                 ║
  ╚═════════════════════════════════════════════════════════════════════════════════╝
 ```

@@ -6,13 +6,22 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   pietro lungarini   ·   aka bebo   ·   italy            ║
-║   full-stack dev obsessed with architecture & markets    ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```bash
+
+ 888~-_   888     888   | 888b    |  e88~~\       e      888~-_   888 888b    | 888
+ 888   \  888     888   | |Y88b   | d888         d8b     888   \  888 |Y88b   | 888
+ 888    | 888     888   | | Y88b  | 8888 __     /Y88b    888    | 888 | Y88b  | 888
+ 888   /  888     888   | |  Y88b | 8888   |   /  Y88b   888   /  888 |  Y88b | 888
+ 888_-~   888     Y88   | |   Y88b| Y888   |  /____Y88b  888_-~   888 |   Y88b| 888
+ 888      888____  "8__/  |    Y888  "88__/  /      Y88b 888 ~-_  888 |    Y888 888
+
+
+ ╔═════════════════════════════════════════════════════════════════════════════════╗
+ ║                                                                                 ║
+ ║         Pietro Lungarini   ·   Full Stack Dev                                   ║
+ ║         pietro@world:~$ git commit -m "it works, don't touch it"                ║
+ ║                                                                                 ║
+ ╚═════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -22,10 +31,10 @@
 <br/>
 
 ```ts
-const bebo = {
+const plungarini = {
   location:  "Italy 🇮🇹",
   status:    "freelancing · side projects · open to opportunities",
-  focus:     ["web architecture", "trading systems", "AI tooling"],
+  focus:     ["web architecture", "design", "trading systems", "AI tooling"],
   currently: "building things that probably shouldn't exist",
 };
 ```
@@ -57,24 +66,24 @@ const bebo = {
 
 ### `// what i'm building`
 
-```
-▸  crm for insurance companies               ········  [active]
+```scss
+›  crm for insurance companies               ········  [active]
    digitizing insurance workflows · GHL layers     
    responsive, fast, smart.
 
-▸  a hedging-based trading platform          ········  [active]
+›  a hedging-based trading platform          ········  [active]
    market-direction-agnostic. profit is      
    a math problem, not a prediction one.
 
-▸  local AI agent orchestration              ········  [active]
+›  local AI agent orchestration              ········  [active]
    raspberry pi 5 · hybrid memory
    because cloud inference is overrated.
 
-▸  smart glasses integrations                ········  [active]
+›  smart glasses integrations                ········  [active]
    evenrealities · even hub SDK
    wearable context layers for workflows.
 
-▸  glasses AR Reddit feed                    ········  [active]
+›  glasses AR Reddit feed                    ········  [active]
    evenrealities G2 · reddit unofficial APIs (scraper)
    reddit feed, straight into G2 glasses.
 ```

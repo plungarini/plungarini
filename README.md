@@ -102,6 +102,20 @@ const plungarini = {
 
 <br/>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🥽 ERDN Member</b><br/>
+      <sub>Even Realities Developer Network</sub><br/><br/>
+      Founding class of the invite-only developer circle by <b>Even Realities</b>,
+      working on Even Hub &amp; G2 smart glasses.<br/><br/>
+      <code>2026</code> · <code>founding class</code> · <code>invite-only</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
 ### `// stats`

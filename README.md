@@ -102,27 +102,6 @@ const plungarini = {
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>🥽 ERDN Member</b><br/>
-      <sub>Even Realities Developer Network</sub><br/><br/>
-      Founding class of the invite-only developer circle by <b>Even Realities</b>,
-      working on Even Hub &amp; G2 smart glasses.<br/><br/>
-      <code>2026</code> · <code>founding class</code> · <code>invite-only</code>
-    </td>
-    <td align="center" width="50%">
-      <b>⚡ Even Hub SDK Developer</b><br/>
-      <sub>Smart glasses integrations</sub><br/><br/>
-      Building wearable context layers and a Reddit feed for the
-      <b>G2</b> glasses on top of the Even Hub SDK.<br/><br/>
-      <code>active</code> · <code>G2</code> · <code>Even Hub</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ---
 
 ### `// stats`
